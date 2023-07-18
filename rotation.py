@@ -10,6 +10,8 @@ rotation_str = json.dumps(rotation_json, indent=2)
 
 def table_list():
     for model in rotation_json['models']: #Loop through all pits
+        pit_name = model['pitName']
+        print("\nCurrent pit:", pit_name)
         for dealer in model['dealerToTableList']: #Loop through all dealers in all pits
             dealer_name = dealer['dealerName'] #Set current dealer name to variable
             print(dealer_name) 
