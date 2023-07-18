@@ -31,7 +31,12 @@ def table_list():
             print("\nDealer:", dealer_name)
             for table in dealer['tables']:
                     table_value = table['table']
-                    print("Table:", table_value, "at", time_list[t]) #print table, and time from time_list
+                    if table_value == "B" or table_value == None: #Checks to see if dealer is on break
+                        print("Break at", time_list[t])
+                    elif str(table_value[0]) == "S": #Checks to see if dealer has a shuffle
+                        print("Shuffle:", table_value, '@', time_list[t])
+                    else:
+                        print("Table:", table_value, "@", time_list[t]) #print table, and time from time_list
                     t += 1 #
 
 table_list()
