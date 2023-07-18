@@ -3,6 +3,7 @@ Pulls rotation data from ShowTvData.json file and displays in easy to read text
 Dealers are assigned 30 minute rotations on tables, separated by specific pits.
 
 Example:
+
 Current pit: (L3) GEN Pit 1
 
 Dealer: Crunch Captain
