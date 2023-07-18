@@ -36,18 +36,6 @@ def table_list():
 
 table_list()
 
-# def times():
-#     i = 0
-#     for model in rotation_json['models']:
-#         for time in model['timeList']:
-#             start_time = time['startTimeLocal']
-#             print(start_time)
-#             i += 1
-#             if i == 4:
-#                 break
-
-
-
 
 #print(rotation_json['models'][0]['dealerToTableList'][0]['tables'][0]['table'])
 
