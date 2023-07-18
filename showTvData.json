@@ -1,0 +1,2886 @@
+{
+    "models": [
+        {
+            "dealerToTableList": [
+                {
+                    "dealerName": "Crunch Captain",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6422"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6428"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6427"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6428"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Smith Fran",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH12"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6419"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH12"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Red Clifford",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6422"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6418"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6427"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Jackson Michael",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6430"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 4"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6418"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Jenkins Menkin",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6430"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6440"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6430"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Lewis Huey",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6419"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6427"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6440"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Banderas II Antonio",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6427"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6430"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6440"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Kojima Hideo",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6440"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 4"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6428"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6422"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Ranger Walker",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6418"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6422"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6419"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Welch Juice",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6428"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6418"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6419"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        }
+                    ]
+                }
+            ],
+            "highlights": [],
+            "pitName": "(L3) GEN Pit 1",
+            "promotions": [],
+            "timeList": [
+                {
+                    "pitId": 73,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T00:30:00Z",
+                    "startTimeLocal": "20:30"
+                },
+                {
+                    "pitId": 73,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T01:00:00Z",
+                    "startTimeLocal": "21:00"
+                },
+                {
+                    "pitId": 73,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T01:30:00Z",
+                    "startTimeLocal": "21:30"
+                },
+                {
+                    "pitId": 73,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T02:00:00Z",
+                    "startTimeLocal": "22:00"
+                }
+            ]
+        },
+        {
+            "dealerToTableList": [
+                {
+                    "dealerName": "Babala Bowling",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6470"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6435"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6424"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Crawfish Corey",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 5"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6474"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6437"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6470"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Daniel Day-Lewis",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6435"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6424"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 5"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Willie Free",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6437"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6470"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6435"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Hotel Habbo",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6435"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6424"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Marmite Mass",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6474"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6437"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6470"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Shack Love",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6424"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 5"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6474"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Shook Tree",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 5"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6474"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6437"
+                        }
+                    ]
+                }
+            ],
+            "highlights": [],
+            "pitName": "(L3) Gen Pit 2",
+            "promotions": [],
+            "timeList": [
+                {
+                    "pitId": 84,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T00:30:00Z",
+                    "startTimeLocal": "20:30"
+                },
+                {
+                    "pitId": 84,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T01:00:00Z",
+                    "startTimeLocal": "21:00"
+                },
+                {
+                    "pitId": 84,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T01:30:00Z",
+                    "startTimeLocal": "21:30"
+                },
+                {
+                    "pitId": 84,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T02:00:00Z",
+                    "startTimeLocal": "22:00"
+                }
+            ]
+        },
+        {
+            "dealerToTableList": [
+                {
+                    "dealerName": "Duncan Basketball",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6477"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6478"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6482"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Jack Black",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6477"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6478"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6482"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Lindsay Vampire",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6482"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6477"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6478"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Moles Holey",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6478"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6482"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6477"
+                        }
+                    ]
+                }
+            ],
+            "highlights": [],
+            "pitName": "(L3) Poker",
+            "promotions": [],
+            "timeList": [
+                {
+                    "pitId": 79,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T00:30:00Z",
+                    "startTimeLocal": "20:30"
+                },
+                {
+                    "pitId": 79,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T01:00:00Z",
+                    "startTimeLocal": "21:00"
+                },
+                {
+                    "pitId": 79,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T01:30:00Z",
+                    "startTimeLocal": "21:30"
+                },
+                {
+                    "pitId": 79,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T02:00:00Z",
+                    "startTimeLocal": "22:00"
+                }
+            ]
+        },
+        {
+            "dealerToTableList": [
+                {
+                    "dealerName": "Allen Tim",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6484"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6490"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6485"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Blackwell Deep",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6481"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6484"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6487"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Jackson Janet",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6485"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6487"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6481"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Carbar Auto",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6485"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6484"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6490"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Motel Lewis",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6486"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6488"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6487"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Sanchez Kurt",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6490"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6481"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 1"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Singleton Allthe",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 2"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6486"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6488"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Terr Smash",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6487"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6485"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6484"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Turner Around",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6488"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 2"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6486"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Turner Timmy",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6481"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 2"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6486"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Washington Denzel",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6488"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6490"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        }
+                    ]
+                }
+            ],
+            "highlights": [],
+            "pitName": "(L3) Studio A",
+            "promotions": [],
+            "timeList": [
+                {
+                    "pitId": 72,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T00:30:00Z",
+                    "startTimeLocal": "20:30"
+                },
+                {
+                    "pitId": 72,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T01:00:00Z",
+                    "startTimeLocal": "21:00"
+                },
+                {
+                    "pitId": 72,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T01:30:00Z",
+                    "startTimeLocal": "21:30"
+                },
+                {
+                    "pitId": 72,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T02:00:00Z",
+                    "startTimeLocal": "22:00"
+                }
+            ]
+        },
+        {
+            "dealerToTableList": [
+                {
+                    "dealerName": "Berry Boo",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6402"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6438"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6402"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Bett Makea",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6405"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6401"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6406"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Browner Brownish",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6408"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6405"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6407"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Fish Swing",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6408"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6405"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6407"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Guysmall Big",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6439"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6408"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6405"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Link Fence",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6438"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6402"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6401"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "McMahan Ed",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6403"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6402"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6401"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Morris Tuesdays",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6407"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6403"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6438"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "O'Neal Shaq",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6406"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6407"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6403"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Sauce Sriracha",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6439"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6408"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Stard Hard",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6400"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6403"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6400"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Wares Sell",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6406"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6439"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "White Black",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6400"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6438"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6400"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Story Allen",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6401"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6406"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6439"
+                        }
+                    ]
+                }
+            ],
+            "highlights": [],
+            "pitName": "(L3) Studio B MGM",
+            "promotions": [],
+            "timeList": [
+                {
+                    "pitId": 76,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T00:30:00Z",
+                    "startTimeLocal": "20:30"
+                },
+                {
+                    "pitId": 76,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T01:00:00Z",
+                    "startTimeLocal": "21:00"
+                },
+                {
+                    "pitId": 76,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T01:30:00Z",
+                    "startTimeLocal": "21:30"
+                },
+                {
+                    "pitId": 76,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T02:00:00Z",
+                    "startTimeLocal": "22:00"
+                }
+            ]
+        },
+        {
+            "dealerToTableList": [
+                {
+                    "dealerName": "Barcume Clean",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6442"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6441"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6449"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Bell Ringthe",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 10"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6443"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 11"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Fit Candis",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6447"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6450"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6446"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "DeBath Take",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6443"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6444"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6441"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6444"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Howie Dowie",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 11"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6449"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6445"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Coleslaw Rammy",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6445"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6446"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6447"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "King Da",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6448"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 11"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6448"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "LaBaron Chrysler",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6444"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6442"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6444"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Ragap Mix",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6450"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 11"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6442"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Scott Paper",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6441"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 10"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6441"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Springer Jerry",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6450"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6446"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6445"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Foods Swanson",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6448"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6445"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6448"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6447"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Vaughn Vince",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6443"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6442"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 10"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Watkins Lightbulb",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6449"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6447"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6443"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Slippers Ruby",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6446"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6449"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6450"
+                        }
+                    ]
+                }
+            ],
+            "highlights": [],
+            "pitName": "L3 Studio B DK",
+            "promotions": [],
+            "timeList": [
+                {
+                    "pitId": 77,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T00:30:00Z",
+                    "startTimeLocal": "20:30"
+                },
+                {
+                    "pitId": 77,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T01:00:00Z",
+                    "startTimeLocal": "21:00"
+                },
+                {
+                    "pitId": 77,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T01:30:00Z",
+                    "startTimeLocal": "21:30"
+                },
+                {
+                    "pitId": 77,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T02:00:00Z",
+                    "startTimeLocal": "22:00"
+                }
+            ]
+        },
+        {
+            "dealerToTableList": [
+                {
+                    "dealerName": "Burnett All",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6426"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6421"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6420"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Tonka Truck",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6431"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6426"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6421"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Pied Piper",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6426"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6431"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6426"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Lettuce Tomato",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6468"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6429"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6425"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Marlboro Kassian",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6429"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6425"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6432"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Ramacan Sauce",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6432"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6421"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6420"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Robinson Givingson",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6432"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6431"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 8"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Tank Thomas",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6468"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6429"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6425"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Bryant Kobe",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6421"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6420"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6468"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Black White",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6425"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6432"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6431"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Willis Bruce",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6420"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6468"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6429"
+                        }
+                    ]
+                }
+            ],
+            "highlights": [],
+            "pitName": "L3 Studio B FD 1",
+            "promotions": [],
+            "timeList": [
+                {
+                    "pitId": 78,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T00:30:00Z",
+                    "startTimeLocal": "20:30"
+                },
+                {
+                    "pitId": 78,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T01:00:00Z",
+                    "startTimeLocal": "21:00"
+                },
+                {
+                    "pitId": 78,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T01:30:00Z",
+                    "startTimeLocal": "21:30"
+                },
+                {
+                    "pitId": 78,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T02:00:00Z",
+                    "startTimeLocal": "22:00"
+                }
+            ]
+        },
+        {
+            "dealerToTableList": [
+                {
+                    "dealerName": "Bates Master",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6433"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6436"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6469"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Beef Kobe",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6436"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6469"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 6"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Byrd Larry",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6410"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6423"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6433"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Manning Eli",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6469"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 6"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6471"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "B Cardi",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6423"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6433"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6436"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Hardwood Floorer",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 6"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6471"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6409"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Your-Esha My-Esha",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6469"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 6"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6471"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "River Hudson",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6409"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 13"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6410"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Nap Takea",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 13"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6410"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6423"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Pitts Stinky",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6471"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6409"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 13"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Goodies Shakayla",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6423"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6433"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6436"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Tapioca Johnson",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6409"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 13"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6410"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        }
+                    ]
+                }
+            ],
+            "highlights": [],
+            "pitName": "L3 Studio B FD 2",
+            "promotions": [],
+            "timeList": [
+                {
+                    "pitId": 82,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T00:30:00Z",
+                    "startTimeLocal": "20:30"
+                },
+                {
+                    "pitId": 82,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T01:00:00Z",
+                    "startTimeLocal": "21:00"
+                },
+                {
+                    "pitId": 82,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T01:30:00Z",
+                    "startTimeLocal": "21:30"
+                },
+                {
+                    "pitId": 82,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T02:00:00Z",
+                    "startTimeLocal": "22:00"
+                }
+            ]
+        },
+        {
+            "dealerToTableList": [
+                {
+                    "dealerName": "Anderson Pamela",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6489"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 3"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6495"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Mahomes Patrick",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6495"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6489"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 3"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Skin Tanesha",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6495"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6489"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 3"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "House Maxwell",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 3"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6495"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6489"
+                        }
+                    ]
+                }
+            ],
+            "highlights": [],
+            "pitName": "Lighting Roulette",
+            "promotions": [],
+            "timeList": [
+                {
+                    "pitId": 74,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T00:30:00Z",
+                    "startTimeLocal": "20:30"
+                },
+                {
+                    "pitId": 74,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T01:00:00Z",
+                    "startTimeLocal": "21:00"
+                },
+                {
+                    "pitId": 74,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T01:30:00Z",
+                    "startTimeLocal": "21:30"
+                },
+                {
+                    "pitId": 74,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T02:00:00Z",
+                    "startTimeLocal": "22:00"
+                }
+            ]
+        }
+    ],
+    "highlights": [],
+    "promotions": [],
+    "showHighlightsLegend": true,
+    "showPromotionsLegend": true
+}
