@@ -1,7 +1,7 @@
 import json
 
 # Setting the file path for the JSON file and opening it as a json object
-path = "C:/Users/Thaddeus/Coding/VS Code/Rotation_Checker/showTVData.json" 
+path = "C:/Users/Thaddeus/Coding/VS Code/Rotation_Checker/showTVData-OnePit.json" 
 f = open(path, 'r')
 rotation_json = json.load(f)
 
