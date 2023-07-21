@@ -1,0 +1,273 @@
+{
+    "models": [
+        {
+            "dealerToTableList": [
+                {
+                    "dealerName": "Babala Bowling",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6470"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6435"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6424"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Crawfish Corey",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 5"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6474"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6437"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6470"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Daniel Day-Lewis",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6435"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6424"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 5"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Willie Free",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6437"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6470"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6435"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Hotel Habbo",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6435"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6424"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Marmite Mass",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6474"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6437"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6470"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "B"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Shack Love",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6424"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 5"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6474"
+                        }
+                    ]
+                },
+                {
+                    "dealerName": "Shook Tree",
+                    "tables": [
+                        {
+                            "configColor": null,
+                            "opening": null,
+                            "promotionColor": null,
+                            "table": null
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "SH 5"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6474"
+                        },
+                        {
+                            "configColor": null,
+                            "opening": false,
+                            "promotionColor": null,
+                            "table": "6437"
+                        }
+                    ]
+                }
+            ],
+            "highlights": [],
+            "pitName": "(L3) Gen Pit 2",
+            "promotions": [],
+            "timeList": [
+                {
+                    "pitId": 84,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T00:30:00Z",
+                    "startTimeLocal": "20:30"
+                },
+                {
+                    "pitId": 84,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T01:00:00Z",
+                    "startTimeLocal": "21:00"
+                },
+                {
+                    "pitId": 84,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T01:30:00Z",
+                    "startTimeLocal": "21:30"
+                },
+                {
+                    "pitId": 84,
+                    "pitLengthType": "L30",
+                    "start": "2023-07-12T02:00:00Z",
+                    "startTimeLocal": "22:00"
+                }
+            ]
+        },
+    ],
+    "highlights": [],
+    "promotions": [],
+    "showHighlightsLegend": true,
+    "showPromotionsLegend": true
+}
