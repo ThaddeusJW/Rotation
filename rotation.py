@@ -22,46 +22,32 @@ for model in rotation_json["models"]:
             break
 
 
-def table_list():
-    for model in rotation_json["models"]:  # Loop through all pits
-        pit_name = model["pitName"]  # Put pitname in variable
-        print("\nCurrent pit:", pit_name)
-        for dealer in model[
-            "dealerToTableList"
-        ]:  # Loop through all dealers in all pits
-            t = 0  # To initialize time_list variable
-            dealer_name = dealer["dealerName"]  # Set current dealer name to variable
-            print("\nDealer:", dealer_name)
-            for table in dealer["tables"]:
-                table_value = table["table"]
-                if (
-                    table_value == "B" or table_value == None
-                ):  # Checks to see if dealer is on break
-                    print("Break at", time_list[t])
-                elif (
-                    str(table_value[0]) == "S"
-                ):  # Checks to see if dealer has a shuffle
-                    print("Shuffle:", table_value, "@", time_list[t])
-                else:
-                    print(
-                        "Table:", table_value, "@", time_list[t]
-                    )  # print table, and time from time_list
-                t += 1  #
+# Step 1: Open the JSON file
+with open("showTvData-OnePit.json", "r") as file:
+    data = json.load(file)
 
+# Step 2: Extract the required data from the JSON
+dealer_data = data["models"][0]["dealerToTableList"]
+dealer_list = []
+tables_list = []
 
-# table_list()
+# Step 3: Loop through the dealer list to get all dealers
+for dealer in dealer_data:
+    dealer_list.append(dealer["dealerName"])
 
+# Step 4: Loop through each dealer
+for dealer in dealer_data:
+    # To get each table for each dealer
+    for table in dealer["tables"]:
+        # 'B' break and BREAKS are different, and are marked as null. Gotta catch those
+        if table["table"] is None:
+            tables_list.append("Break")
+        else:
+            tables_list.append(table["table"])
 
-# print(rotation_json['models'][0]['dealerToTableList'][0]['tables'][0]['table'])
-
-
-# for model in rotation_json['models']:
-#      for dealer in model['dealerToTableList']:
-#           for table in dealer['tables']:
-#             table_value = table['table']
-#             print(table_value)
-
-# print(rotation_json['models'][0]['timeList'][INTEGER]['startTimeLocal'])
+dealerTable_dict = {
+    dealer_list[i]: tables_list[i * 4 : i * 4 + 4] for i in range(len(dealer_list))
+}
 
 
 def pit():
@@ -109,6 +95,66 @@ def pit():
     file.close
 
 
-table_list()
-print("=" * 45)
+def rot_chains():
+    # Step 1: Open the JSON file
+    with open("showTvData-OnePit.json", "r") as file:
+        data = json.load(file)
+
+    # Step 2: Extract the required data from the JSON
+    dealer_data = data["models"][0]["dealerToTableList"]
+    dealer_list = []
+    tables_list = []
+
+    # Step 3: Loop through the dealer list to get all dealers
+    for dealer in dealer_data:
+        dealer_list.append(dealer["dealerName"])
+
+    # Step 4: Loop through each dealer
+    for dealer in dealer_data:
+        # To get each table for each dealer
+        for table in dealer["tables"]:
+            # 'B' break and BREAKS are different, and are marked as null. Gotta catch those
+            if table["table"] is None:
+                tables_list.append("Break")
+            else:
+                tables_list.append(table["table"])
+
+    dealerTable_dict = {
+        dealer_list[i]: tables_list[i * 4 : i * 4 + 4] for i in range(len(dealer_list))
+    }
+
+    # Find dealers with B, Break, or Shuffle as their current table
+    # to find the start of the chain
+    chain_start = {
+        key: values
+        for key, values in dealerTable_dict.items()
+        if values[0].startswith(("B"))
+    }
+
+    # Find dealers going to Break or Shuffle
+    chain_end = {
+        key: values
+        for key, values in dealerTable_dict.items()
+        if values[1].startswith(("B"))
+    }
+
+    # Find dealers going from table to table
+    chain_middle = {
+        key: values
+        for key, values in dealerTable_dict.items()
+        if not values[0].startswith("B") and not values[1].startswith("B")
+    }
+
+    print("Start Chain", list(chain_start.keys()))
+    print("End of chain", list(chain_end.keys()))
+    print("Chain Middle:", list(chain_middle.keys()))
+
+    chain_num = 0
+    for key in chain_start.items():
+        chain_num += 1
+    print("Number of chains:", chain_num)
+
+
 pit()
+print("===========================")
+rot_chains()
