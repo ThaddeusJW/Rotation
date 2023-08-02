@@ -125,34 +125,22 @@ def rot_chains():
 
     # Find dealers with B, Break, or Shuffle as their current table
     # to find the start of the chain
-    chain_start = {
+    chain_starters = {
         key: values
         for key, values in dealerTable_dict.items()
         if values[0].startswith(("B"))
     }
 
-    # Find dealers going to Break or Shuffle
-    chain_end = {
+    # Make a dictionary for all remaining dealers
+
+    chain_remainders = {
         key: values
         for key, values in dealerTable_dict.items()
-        if values[1].startswith(("B"))
+        if not values[0].startswith("B")
     }
 
-    # Find dealers going from table to table
-    chain_middle = {
-        key: values
-        for key, values in dealerTable_dict.items()
-        if not values[0].startswith("B") and not values[1].startswith("B")
-    }
-
-    print("Start Chain", list(chain_start.keys()))
-    print("End of chain", list(chain_end.keys()))
-    print("Chain Middle:", list(chain_middle.keys()))
-
-    chain_num = 0
-    for key in chain_start.items():
-        chain_num += 1
-    print("Number of chains:", chain_num)
+    print("Chain Starters", list(chain_starters.keys()))
+    print("Remainders:", list(chain_remainders.keys()))
 
 
 pit()
