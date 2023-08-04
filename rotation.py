@@ -142,6 +142,12 @@ def rot_chains():
     print("Chain Starters", list(chain_starters.keys()))
     print("Remainders:", list(chain_remainders.keys()))
 
+    for key, values in chain_remainders.items():
+        print(key, values)
+
+    for key, values in chain_starters.items():
+        print(key, values)
+
 
 pit()
 print("===========================")
